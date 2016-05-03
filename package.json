@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/italoacasas/vultus/issues"
   },
-  "homepage": "https://github.com/italoacasas/vultus#readme"
+  "homepage": "https://github.com/italoacasas/vultus#readme",
+  "devDependencies": {
+    "eslint": "^2.9.0"
+  }
 }
