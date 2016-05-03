@@ -3,7 +3,16 @@
   "version": "0.1.0",
   "description": "Validators",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+      "linter": "eslint .eslintrc.js"
+  },
+  "keywords": [
+    "node",
+    "validation",
+    "validators",
+    "validator",
+    "regex"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/italoacasas/vultus.git"
