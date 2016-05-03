@@ -1,0 +1,17 @@
+{
+  "name": "vultus",
+  "version": "0.1.0",
+  "description": "Validators",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/italoacasas/vultus.git"
+  },
+  "author": "Italo A. Casas <me@italoacasas.com> (http://italoacasas.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/italoacasas/vultus/issues"
+  },
+  "homepage": "https://github.com/italoacasas/vultus#readme"
+}
