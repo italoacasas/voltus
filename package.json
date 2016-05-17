@@ -1,6 +1,6 @@
 {
   "name": "vultus",
-  "version": "0.1.0",
+  "version": "0.1.0-alpha",
   "description": "Validators",
   "main": "index.js",
   "scripts": {
