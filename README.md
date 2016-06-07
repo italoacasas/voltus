@@ -1,6 +1,13 @@
 # Vultus
 The propose of this package is to handle validator of communs values, like Phone Numbers, Address, Emails, etc.
 
+[![Join the chat at https://gitter.im/italoacasas/vultus](https://badges.gitter.im/italoacasas/vultus.svg)](https://gitter.im/italoacasas/vultus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![npm version](https://badge.fury.io/js/vultus.svg)](https://badge.fury.io/js/vultus)
+[![Build Status](https://travis-ci.org/italoacasas/vultus.svg?branch=master)](https://travis-ci.org/italoacasas/vultus)
+[![Dependency Status](https://david-dm.org/italoacasas/vultus.svg)](https://david-dm.org/italoacasas/vultus)
+[![devDependency Status](https://david-dm.org/italoacasas/vultus/dev-status.svg?theme=shields.io)](https://david-dm.org/italoacasas/vultus#info=devDependencies)
+[![NPM](https://nodei.co/npm/vultus.png?downloads=true)](https://nodei.co/npm/vultus/)
+
 ## Installation
 `npm install --save vultus`
 
