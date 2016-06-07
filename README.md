@@ -1,4 +1,4 @@
-# Vultu
+# Vultus
 The propose of this package is to handle validator of communs values, like Phone Numbers, Address, Emails, etc.
 
 ## Installation
