@@ -4,7 +4,7 @@
   "description": "Validators",
   "main": "index.js",
   "scripts": {
-      "linter": "eslint .eslintrc.js"
+    "linter": "eslint .eslintrc.js"
   },
   "keywords": [
     "node",
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/italoacasas/vultus#readme",
   "devDependencies": {
+    "@flexshopper/eslint-config-flexshopper": "^3.1.1",
     "eslint": "^2.9.0"
   }
 }
