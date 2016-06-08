@@ -5,8 +5,6 @@ The propose of this package is to handle validator of communs values, like Phone
 [![npm version](https://badge.fury.io/js/voltus.svg)](https://badge.fury.io/js/voltus)
 [![Build Status](https://travis-ci.org/italoacasas/voltus.svg?branch=master)](https://travis-ci.org/italoacasas/voltus)
 [![Dependency Status](https://david-dm.org/italoacasas/voltus.svg)](https://david-dm.org/italoacasas/voltus)
-[![devDependency Status](https://david-dm.org/italoacasas/voltus/dev-status.svg?theme=shields.io)](https://david-dm.org/italoacasas/voltus#info=devDependencies)
-[![NPM](https://nodei.co/npm/voltus.png?downloads=true)](https://nodei.co/npm/voltus/)
 
 ## Installation
 `npm install --save voltus`
