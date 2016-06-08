@@ -1,8 +1,6 @@
 # Voltus
 The propose of this package is to handle validator of communs values, like Phone Numbers, Address, Emails, etc.
 
-![voltus](http://3.bp.blogspot.com/-A7LNzIAstjM/VFYlvStcgRI/AAAAAAAAEpw/vS3FJR82smM/s1600/Voltes%2BV%2Bclose%2Bup.png)
-
 [![Join the chat at https://gitter.im/italoacasas/voltus](https://badges.gitter.im/italoacasas/voltus.svg)](https://gitter.im/italoacasas/voltus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![npm version](https://badge.fury.io/js/voltus.svg)](https://badge.fury.io/js/voltus)
 [![Build Status](https://travis-ci.org/italoacasas/voltus.svg?branch=master)](https://travis-ci.org/italoacasas/voltus)
