@@ -19,7 +19,6 @@ voltus.phone('florida') // false
 
 ## API
 - `email(value)`
-- `bakAccount(value)`
 - `password(value)`
 - `phone(value)`
 - `socialSecurity(value)`
