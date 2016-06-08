@@ -4,7 +4,8 @@
   "description": "Validators",
   "main": "index.js",
   "scripts": {
-    "linter": "eslint .eslintrc.js"
+    "linter": "eslint .eslintrc.js",
+    "test": "mocha -w -G --reporter spec test/*.js"
   },
   "keywords": [
     "node",
