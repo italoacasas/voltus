@@ -1,7 +1,7 @@
 const expect = require('chai').expect;
 const password = require('../lib/index.js').password;
 
-describe('password', () => {
+describe('Password', () => {
 
     it('should return true', () => {
         expect(password('Aasda1')).to.be.true
