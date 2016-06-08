@@ -1,5 +1,5 @@
 {
-  "name": "vultus",
+  "name": "voltus",
   "version": "1.0.0-alpha.1",
   "description": "Validators",
   "main": "index.js",
@@ -15,14 +15,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/italoacasas/vultus.git"
+    "url": "git+https://github.com/italoacasas/voltus.git"
   },
   "author": "Italo A. Casas <me@italoacasas.com> (http://italoacasas.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/italoacasas/vultus/issues"
+    "url": "https://github.com/italoacasas/voltus/issues"
   },
-  "homepage": "https://github.com/italoacasas/vultus#readme",
+  "homepage": "https://github.com/italoacasas/voltus#readme",
   "devDependencies": {
     "@flexshopper/eslint-config-flexshopper": "^3.1.1",
     "chai": "^3.5.0",

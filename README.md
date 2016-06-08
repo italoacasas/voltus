@@ -1,22 +1,22 @@
-# Vultus
+# Voltus
 The propose of this package is to handle validator of communs values, like Phone Numbers, Address, Emails, etc.
 
-[![Join the chat at https://gitter.im/italoacasas/vultus](https://badges.gitter.im/italoacasas/vultus.svg)](https://gitter.im/italoacasas/vultus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![npm version](https://badge.fury.io/js/vultus.svg)](https://badge.fury.io/js/vultus)
-[![Build Status](https://travis-ci.org/italoacasas/vultus.svg?branch=master)](https://travis-ci.org/italoacasas/vultus)
-[![Dependency Status](https://david-dm.org/italoacasas/vultus.svg)](https://david-dm.org/italoacasas/vultus)
-[![devDependency Status](https://david-dm.org/italoacasas/vultus/dev-status.svg?theme=shields.io)](https://david-dm.org/italoacasas/vultus#info=devDependencies)
-[![NPM](https://nodei.co/npm/vultus.png?downloads=true)](https://nodei.co/npm/vultus/)
+[![Join the chat at https://gitter.im/italoacasas/voltus](https://badges.gitter.im/italoacasas/voltus.svg)](https://gitter.im/italoacasas/voltus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![npm version](https://badge.fury.io/js/voltus.svg)](https://badge.fury.io/js/voltus)
+[![Build Status](https://travis-ci.org/italoacasas/voltus.svg?branch=master)](https://travis-ci.org/italoacasas/voltus)
+[![Dependency Status](https://david-dm.org/italoacasas/voltus.svg)](https://david-dm.org/italoacasas/voltus)
+[![devDependency Status](https://david-dm.org/italoacasas/voltus/dev-status.svg?theme=shields.io)](https://david-dm.org/italoacasas/voltus#info=devDependencies)
+[![NPM](https://nodei.co/npm/voltus.png?downloads=true)](https://nodei.co/npm/voltus/)
 
 ## Installation
-`npm install --save vultus`
+`npm install --save voltus`
 
 ## Example of use
 ```javascript
-const vultus = require('vultus')
+const voltus = require('voltus')
 
-vultus.email('testing@gmail.com') // true
-vultus.phone('florida') // false
+voltus.email('testing@gmail.com') // true
+voltus.phone('florida') // false
 ```
 
 ## API
