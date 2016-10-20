@@ -1,34 +1,34 @@
 {
   "name": "voltus",
-  "version": "1.0.0-alpha.7",
   "description": "Validators",
-  "main": "index.js",
-  "scripts": {
-    "linter": "eslint .eslintrc.js",
-    "test": "istanbul cover node_modules/.bin/_mocha -- -G --reporter spec test/*.js"
-  },
-  "keywords": [
-    "node",
-    "validation",
-    "validators",
-    "validator",
-    "regex"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/italoacasas/voltus.git"
-  },
+  "version": "1.0.0-alpha.7",
   "author": "Italo A. Casas <me@italoacasas.com> (http://italoacasas.com/)",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/italoacasas/voltus/issues"
   },
-  "homepage": "https://github.com/italoacasas/voltus#readme",
   "devDependencies": {
     "@flexshopper/eslint-config-flexshopper": "^3.1.1",
     "chai": "^3.5.0",
     "eslint": "^2.9.0",
     "istanbul": "^0.4.3",
     "mocha": "^2.5.3"
+  },
+  "homepage": "https://github.com/italoacasas/voltus#readme",
+  "keywords": [
+    "node",
+    "regex",
+    "validation",
+    "validator",
+    "validators"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/italoacasas/voltus.git"
+  },
+  "scripts": {
+    "linter": "eslint .eslintrc.js",
+    "test": "istanbul cover node_modules/.bin/_mocha -- -G --reporter spec test/*.js"
   }
 }
