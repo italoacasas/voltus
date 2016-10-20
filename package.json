@@ -29,6 +29,6 @@
   },
   "scripts": {
     "linter": "eslint .eslintrc.js",
-    "test": "istanbul cover node_modules/.bin/_mocha -- -G --reporter spec test/*.js"
+    "test": "istanbul cover node_modules/.bin/_mocha -- -G --reporter spec test/*.js && npm run linter"
   }
 }
