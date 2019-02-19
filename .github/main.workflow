@@ -1,8 +1,8 @@
 workflow "New workflow" {
-  on = "push"
   resolves = ["Node.js Audit"]
+  on = "pull_request"
 }
 
 action "Node.js Audit" {
-  uses = "italoacasas/action-nodejs-audit@1.0.0"
+  uses = "italoacasas/action-nodejs-audit@1.0.3"
 }
